@@ -1,0 +1,6 @@
+@XM.PUBLICON.Api_HostAddress = http://localhost:7191
+
+GET {{XM.PUBLICON.Api_HostAddress}}/roles/
+Accept: application/json
+
+###
